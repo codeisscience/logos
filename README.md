@@ -1,4 +1,4 @@
-![Code is Science Logo](model-1/code-is-science-large.png)
+![Code is Science Logo](blue-red-parenthesis/code-is-science-large.png)
 
 [![Backers on Open Collective](https://opencollective.com/code-is-science/backers/badge.svg)](#backers)
 [![Sponsors on Open Collective](https://opencollective.com/code-is-science/sponsors/badge.svg)](#sponsors) 
